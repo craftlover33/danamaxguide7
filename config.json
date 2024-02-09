@@ -1,0 +1,195 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://sites.google.com/view/solodroid-guide-privacy-policy",
+	  "email_feedback_and_report": "yourmail@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "0",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "applovin",
+      "admob_banner_unit_id": "0",
+      "admob_interstitial_unit_id": "0",
+      "admob_native_unit_id": "0",
+      "admob_app_open_unit_id": "0",
+      "ad_manager_banner_unit_id": "0",
+      "ad_manager_interstitial_unit_id": "0",
+      "ad_manager_native_unit_id": "0",
+      "ad_manager_app_open_unit_id": "0",
+      "fan_banner_unit_id": "0",
+      "fan_interstitial_unit_id": "0",
+      "fan_native_unit_id": "0",
+      "startapp_app_id": "0",
+      "unity_game_id": "0",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "0",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 3,
+      "native_ad_index": 1,
+      "native_ad_interval": 8,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": false,
+      "show_banner_ad_post_details": false,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Danamax",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danamaxguide7%2Ficon.png?alt=media&token=393bf81b-1bbb-49bf-9f66-ffa64328c43f"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "category": "Danamax",
+      "title": "Apa itu pinjaman online?",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danamaxguide7%2Ficon.png?alt=media&token=393bf81b-1bbb-49bf-9f66-ffa64328c43f",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danamaxguide7%2Fapa%20itu%20pinjaman%20online.html?alt=media&token=0439ea59-78ba-42c5-b7fc-c2d31a1731b9",
+      "video": ""
+    },
+	{
+      "id": 2,
+      "category": "Danamax",
+      "title": "Jenis-jenis pinjaman online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danamaxguide7%2Ficon.png?alt=media&token=393bf81b-1bbb-49bf-9f66-ffa64328c43f",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danamaxguide7%2Fjenis-jenis%20pinjaman%20online.html?alt=media&token=8fed0434-4c39-42ed-83ae-0d6e3f80ab57",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "Danamax",
+      "title": "Tenor pinjaman online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danamaxguide7%2Ficon.png?alt=media&token=393bf81b-1bbb-49bf-9f66-ffa64328c43f",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danamaxguide7%2FTenor%20pinjaman%20online.html?alt=media&token=9b9a7bac-22c8-4b89-b1c3-c951121931e2",
+      "video": ""
+    },
+    {
+      "id": 4,
+      "category": "Danamax",
+      "title": "Manfaat pinjaman online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danamaxguide7%2Ficon.png?alt=media&token=393bf81b-1bbb-49bf-9f66-ffa64328c43f",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danamaxguide7%2FManfaat%20pinjaman%20online.html?alt=media&token=e03b1914-3b1b-4bcf-ae79-99349d613125",
+      "video": ""
+    },
+    {
+      "id": 5,
+      "category": "Danamax",
+      "title": "Hati-hati pinjaman online ilegal",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danamaxguide7%2Ficon.png?alt=media&token=393bf81b-1bbb-49bf-9f66-ffa64328c43f",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danamaxguide7%2FHati-hati%20pinjaman%20online%20ilegal.html?alt=media&token=e1e27289-e81f-4848-9a1a-c07a6cbb5558",
+      "video": ""
+    },
+    {
+      "id": 6,
+      "category": "Danamax",
+      "title": "Memilih Pinjaman Online Legal",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danamaxguide7%2Ficon.png?alt=media&token=393bf81b-1bbb-49bf-9f66-ffa64328c43f",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danamaxguide7%2FMemilih%20Pinjaman%20Online%20Legal.html?alt=media&token=5472e3a3-090e-4c13-815d-c8b9604cd799",
+      "video": ""
+    },
+	{
+      "id": 7,
+      "category": "Danamax",
+      "title": "Syarat Pinjaman Online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danamaxguide7%2Ficon.png?alt=media&token=393bf81b-1bbb-49bf-9f66-ffa64328c43f",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danamaxguide7%2FSyarat%20Pinjaman%20Online.html?alt=media&token=3fecd5d3-4864-4573-a926-d152008d40c5",
+      "video": ""
+    },
+    {
+      "id": 8,
+      "category": "Danamax",
+      "title": "Memilih pinjaman online terbaik",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danamaxguide7%2Ficon.png?alt=media&token=393bf81b-1bbb-49bf-9f66-ffa64328c43f",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danamaxguide7%2FMemilih%20pinjaman%20online%20terbaik.html?alt=media&token=0c01df97-76e0-41ab-867a-b054947a8239",
+      "video": ""
+    },
+    {
+      "id": 9,
+      "category": "Danamax",
+      "title": "Tips Pinjaman Online Cepat Cair",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danamaxguide7%2Ficon.png?alt=media&token=393bf81b-1bbb-49bf-9f66-ffa64328c43f",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danamaxguide7%2FTips%20Pinjaman%20Online%20Cepat%20cair.html?alt=media&token=3f5748e6-c417-43e0-bb9c-073e8283ee52",
+      "video": ""
+    },
+    {
+      "id": 10,
+      "category": "Danamax",
+      "title": "Solusi Pinjaman Online yang Gagal",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danamaxguide7%2Ficon.png?alt=media&token=393bf81b-1bbb-49bf-9f66-ffa64328c43f",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/danamaxguide7%2FSolusi%20Pinjaman%20Online%20yang%20Gagal.html?alt=media&token=ecc990d5-6ebc-4a53-9248-11081bdee8e3",
+      "video": ""
+    }
+  ],
+  "more_apps": [
+    {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 2,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 3,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 4,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 5,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 6,
+      "title": "",
+      "image": "",
+      "url": ""
+    }
+  ]
+}
